@@ -1,0 +1,3 @@
+interface Rent {
+    void amount();
+}

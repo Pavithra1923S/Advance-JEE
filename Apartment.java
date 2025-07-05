@@ -1,0 +1,3 @@
+interface Apartment{
+	void live();
+}
